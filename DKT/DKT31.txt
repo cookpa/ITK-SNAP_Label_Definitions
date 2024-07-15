@@ -1,0 +1,77 @@
+################################################
+# ITK-SnAP Label Description File
+# File format:
+# IDX   -R-  -G-  -B-  -A--  VIS MSH  LABEL
+# Fields:
+#    IDX:   Zero-based index
+#    -R-:   Red color component (0..255)
+#    -G-:   Green color component (0..255)
+#    -B-:   Blue color component (0..255)
+#    -A-:   Label transparency (0.00 .. 1.00)
+#    VIS:   Label visibility (0 or 1)
+#    IDX:   Label mesh visibility (0 or 1)
+#  LABEL:   Label description
+################################################
+0	0	0	0	0	0	0	"Clear label"
+1002    125     100     160     1       1       1       "lh.caudalanteriorcingulate"
+1003    100     25      0       1       1       1       "lh.caudalmiddlefrontal"
+1005    220     20      100     1       1       1       "lh.cuneus"
+1006    220     20      10      1       1       1       "lh.entorhinal"
+1007    180     220     140     1       1       1       "lh.fusiform"
+1008    220     60      220     1       1       1       "lh.inferiorparietal"
+1009    180     40      120     1       1       1       "lh.inferiortemporal"
+1010    140     20      140     1       1       1       "lh.isthmuscingulate"
+1011    20      30      140     1       1       1       "lh.lateraloccipital"
+1012    35      75      50      1       1       1       "lh.lateralorbitofrontal"
+1013    225     140     140     1       1       1       "lh.lingual"
+1014    200     35      75      1       1       1       "lh.medialorbitofrontal"
+1015    160     100     50      1       1       1       "lh.middletemporal"
+1016    20      220     60      1       1       1       "lh.parahippocampal"
+1017    60      220     60      1       1       1       "lh.paracentral"
+1018    220     180     140     1       1       1       "lh.parsopercularis"
+1019    20      100     50      1       1       1       "lh.parsorbitalis"
+1020    220     60      20      1       1       1       "lh.parstriangularis"
+1021    120     100     60      1       1       1       "lh.pericalcarine"
+1022    220     20      20      1       1       1       "lh.postcentral"
+1023    220     180     220     1       1       1       "lh.posteriorcingulate"
+1024    60      20      220     1       1       1       "lh.precentral"
+1025    160     140     180     1       1       1       "lh.precuneus"
+1026    80      20      140     1       1       1       "lh.rostralanteriorcingulate"
+1027    75      50      125     1       1       1       "lh.rostralmiddlefrontal"
+1028    20      220     160     1       1       1       "lh.superiorfrontal"
+1029    20      180     140     1       1       1       "lh.superiorparietal"
+1030    140     220     220     1       1       1       "lh.superiortemporal"
+1031    80      160     20      1       1       1       "lh.supramarginal"
+1034    150     150     200     1       1       1       "lh.transversetemporal"
+1035    255     192     32      1       1       1       "lh.insula"
+2002    125     100     160     1       1       1       "rh.caudalanteriorcingulate"
+2003    100     25      0       1       1       1       "rh.caudalmiddlefrontal"
+2005    220     20      100     1       1       1       "rh.cuneus"
+2006    220     20      10      1       1       1       "rh.entorhinal"
+2007    180     220     140     1       1       1       "rh.fusiform"
+2008    220     60      220     1       1       1       "rh.inferiorparietal"
+2009    180     40      120     1       1       1       "rh.inferiortemporal"
+2010    140     20      140     1       1       1       "rh.isthmuscingulate"
+2011    20      30      140     1       1       1       "rh.lateraloccipital"
+2012    35      75      50      1       1       1       "rh.lateralorbitofrontal"
+2013    225     140     140     1       1       1       "rh.lingual"
+2014    200     35      75      1       1       1       "rh.medialorbitofrontal"
+2015    160     100     50      1       1       1       "rh.middletemporal"
+2016    20      220     60      1       1       1       "rh.parahippocampal"
+2017    60      220     60      1       1       1       "rh.paracentral"
+2018    220     180     140     1       1       1       "rh.parsopercularis"
+2019    20      100     50      1       1       1       "rh.parsorbitalis"
+2020    220     60      20      1       1       1       "rh.parstriangularis"
+2021    120     100     60      1       1       1       "rh.pericalcarine"
+2022    220     20      20      1       1       1       "rh.postcentral"
+2023    220     180     220     1       1       1       "rh.posteriorcingulate"
+2024    60      20      220     1       1       1       "rh.precentral"
+2025    160     140     180     1       1       1       "rh.precuneus"
+2026    80      20      140     1       1       1       "rh.rostralanteriorcingulate"
+2027    75      50      125     1       1       1       "rh.rostralmiddlefrontal"
+2028    20      220     160     1       1       1       "rh.superiorfrontal"
+2029    20      180     140     1       1       1       "rh.superiorparietal"
+2030    140     220     220     1       1       1       "rh.superiortemporal"
+2031    80      160     20      1       1       1       "rh.supramarginal"
+2034    150     150     200     1       1       1       "rh.transversetemporal"
+2035    255     192     32      1       1       1       "rh.insula"
