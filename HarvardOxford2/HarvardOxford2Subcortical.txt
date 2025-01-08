@@ -1,0 +1,47 @@
+################################################
+# ITK-SnAP Label Description File
+# File format:
+# IDX   -R-  -G-  -B-  -A--  VIS MSH  LABEL
+# Fields:
+#    IDX:   Zero-based index
+#    -R-:   Red color component (0..255)
+#    -G-:   Green color component (0..255)
+#    -B-:   Blue color component (0..255)
+#    -A-:   Label transparency (0.00 .. 1.00)
+#    VIS:   Label visibility (0 or 1)
+#    IDX:   Label mesh visibility (0 or 1)
+#  LABEL:   Label description
+################################################
+    0     0     0     0    0   0    0    "Clear Label"
+    1   120    18   134    1   1    1    "Lateral Ventricle Left"
+    2   120    18   134    1   1    1    "Lateral Ventricle Right"
+    3   175   135   175    1   1    1    "CSF"
+    4   204   182   142    1   1    1    "Third Ventricle"
+    5    42   204   164    1   1    1    "Fourth Ventricle"
+    6   120   190   150    1   1    1    "5th Ventricle"
+    7   255   165     0    1   1    1    "Nucleus Accumbens Left"
+    8   255   165     0    1   1    1    "Nucleus Accumbens Right"
+    9   122   186   220    1   1    1    "Caudate Left"
+   10   122   186   220    1   1    1    "Caudate Right"
+   11   236    13   176    1   1    1    "Putamen Left"
+   12   236    13   176    1   1    1    "Putamen Right"
+   13    12    48   255    1   1    1    "Globus Pallidus Left"
+   14    12    48   255    1   1    1    "Globus Pallidus Right"
+   15   119   159   176    1   1    1    "Brainstem"
+   16     0   118    14    1   1    1    "Thalamus Left"
+   17     0   118    14    1   1    1    "Thalamus Right"
+   18   196    58   250    1   1    1    "Inferior Horn of the Lateral Ventricle Left"
+   19   196    58   250    1   1    1    "Inferior Horn of the Lateral Ventricle Right"
+   20   220   216    20    1   1    1    "Hippocampal Formation Left"
+   21   220   216    20    1   1    1    "Hippocampal Formation Right"
+   22   103   255   255    1   1    1    "Amygdala Left"
+   23   103   255   255    1   1    1    "Amygdala Right"
+   24   234   169    30    1   1    1    "Optic Chiasm"
+   25   177    62    64    1   1    1    "VDC Anterior Left"
+   26   177    62    64    1   1    1    "VDC Anterior Right"
+   27   241   161   162    1   1    1    "VDC Posterior Left"
+   28   241   161   162    1   1    1    "VDC Posterior Right"
+   29   220   148    34    1   1    1    "Cerebellar Cortex Left"
+   30   220   148    34    1   1    1    "Cerebellar Cortex Right"
+   31   220   248   164    1   1    1    "Cerebellar White Matter Left"
+   32   220   248   164    1   1    1    "Cerebellar White Matter Right"
